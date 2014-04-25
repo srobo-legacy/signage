@@ -42,12 +42,12 @@ def do_subs(svg_str, subs_dict):
 def generate_SVG(size, msg, output_fname, image_file=None):
 
     img_type = WITHOUT_IMAGE
-    image = None
+    image = image_file
     if image_file is not None:
-        image = image_path(image_file)
-        if image is None:
-            raise ValueError("Image file '{}' "
-                             "does not exist".format(image_file))
+#        image = image_path(image_file)
+#        if image is None:
+#            raise ValueError("Image file '{}' "
+#                             "does not exist".format(image_file))
         img_type = WITH_IMAGE
 
     svg_fname = "{size}-{type}.svg".format(size=size, type=img_type)
