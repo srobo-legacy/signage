@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="a4-team.svg">
+   sodipodi:docname="a4-team-with-image.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -126,7 +126,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="474.13059"
+     inkscape:cx="238.76505"
      inkscape:cy="198.10179"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -145,7 +145,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,7 +156,7 @@
      transform="translate(0,-308.26769)">
     <g
        id="g3458"
-       transform="matrix(0.43037247,0,0,0.43037247,162.94881,331.60179)">
+       transform="matrix(0.43037247,0,0,0.43037247,115.87851,331.60179)">
       <g
          transform="translate(0.75454682,-329.25543)"
          id="layer1-8"
@@ -208,7 +208,7 @@
        xml:space="preserve"
        id="flowRoot3467"
        style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.5709292,0,0,1.5709292,-284.61167,-110.41557)"><flowRegion
+       transform="matrix(1.5709292,0,0,1.5709292,-284.61167,-134.41557)"><flowRegion
          id="flowRegion3469"><rect
            id="rect3471"
            width="904.46393"
@@ -217,20 +217,20 @@
            y="414.11536"
            ry="0"
            style="font-size:72px" /></flowRegion><flowPara
-         style="font-size:159.14148136px;text-align:center;text-anchor:middle"
+         style="font-size:159.14147949px;text-align:center;text-anchor:middle"
          id="flowPara3022">$$__MESSAGE__$$</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3467-1"
-       style="font-size:45.83274841px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.5709292,0,0,1.5709292,-284.57824,196.41085)"><flowRegion
+       style="font-size:40.74021912px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.5709292,0,0,1.5709292,-88.674796,216.41085)"><flowRegion
          id="flowRegion3469-5"><rect
            id="rect3471-3"
-           width="904.46393"
-           height="86.312119"
+           width="654.9953"
+           height="106.61815"
            x="63.921665"
            y="414.11536"
            ry="0"
-           style="font-size:45.83274841px" /></flowRegion><flowPara
-         style="font-size:45.83274841px;text-align:center;text-anchor:middle"
+           style="font-size:40.74021912px" /></flowRegion><flowPara
+         style="font-size:40.74021912px;text-align:center;text-anchor:middle"
          id="flowPara3022-0">$$__IMAGE__$$</flowPara></flowRoot>  </g>
 </svg>

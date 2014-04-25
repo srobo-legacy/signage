@@ -25,7 +25,7 @@ for tla, _ in teams1.items():
     info = teams2[tla]
     name = info.get('team_name', _['name'])
     print "Generating: '{0}: {1}'.".format(tla, name)
-    open("images/"+name, 'w').close()
+#    open("images/"+name, 'w').close()
     output = check_output(['./signgen', '-s', 'a4-team', '-m', tla, '-i', name, '-o', 'teams-out/' + tla + '.pdf'])
     if output:
         print output
